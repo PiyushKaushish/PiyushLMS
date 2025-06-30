@@ -2,6 +2,7 @@ Library Management System is implemented following the SOLID , KISS , DRY and YA
 Following the Bottoms Up Approach following core entities have been created
 
 
+
 -Books 
 
 -BookSpot
@@ -15,6 +16,8 @@ Following the Bottoms Up Approach following core entities have been created
 -PatronManagement
 
 -Inventory Management
+
+Inventory Management also implements LENDING PROCESS TASKS as well which is used by Patron Management
 
 
 
